@@ -1,0 +1,757 @@
+Perforce server info:
+	Perforce db files in 'J:\Perforce\Server\' will be created if missing...
+Perforce server info:
+	Perforce Server starting 2022/12/13 13:30:47 pid 25044 P4D/NTX64/2022.1/2361553.
+Perforce server info:
+	2022/12/13 13:30:47 pid 26080 remote@unknown background [p4d/2022.1/NTX64/2361553] 'topologyRegistration'
+Perforce server warning:
+	Pid 26080
+	Operation: topologyRegistration
+	No entries made in db.topology for server address: '1666', dest address: '' and serverID: ''.
+	ServerID for the server should be set.
+Perforce server info:
+	2022/12/13 13:38:29 pid 3104 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:38:29 pid 3104 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:38:33 pid 17904 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:38:33 pid 17904 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:38:37 pid 17904 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:38:37 pid 17904 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11150+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:38:37 pid 17904 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-users -a'
+Perforce server info:
+	2022/12/13 13:38:40 pid 17904 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:38:40 pid 17904 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11150+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:39:31 pid 3116 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-users ringnave'
+Perforce server info:
+	2022/12/13 13:39:31 pid 3116 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-user -o ringnave'
+Perforce server info:
+	2022/12/13 13:39:31 pid 17976 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o user'
+Perforce server info:
+	2022/12/13 13:39:31 pid 17976 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-passwd (hidden)'
+Perforce server info:
+	2022/12/13 13:39:31 pid 17976 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-login -a'
+Perforce server info:
+	2022/12/13 13:39:31 pid 17976 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-user -o ringnave'
+Perforce server info:
+	2022/12/13 13:39:31 pid 17976 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-user -i'
+Perforce server info:
+	2022/12/13 13:39:31 pid 17976 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-user -o ringnave'
+Perforce server info:
+	2022/12/13 13:39:31 pid 3116 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-users -a'
+Perforce server info:
+	2022/12/13 13:39:33 pid 17336 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:39:33 pid 17336 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:39:33 pid 17336 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-users -a'
+Perforce server info:
+	2022/12/13 13:39:37 pid 3460 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:39:37 pid 3460 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:39:37 pid 3460 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -m -h 127.0.0.1'
+Perforce server info:
+	2022/12/13 13:39:37 pid 3460 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4V.Features.PromptWorkspaceName'
+Perforce server info:
+	2022/12/13 13:39:37 pid 3460 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o client'
+Perforce server info:
+	2022/12/13 13:39:37 pid 3460 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-streams'
+Perforce server info:
+	2022/12/13 13:39:37 pid 17976 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o ringnave_JJU-DESKTOP_5363'
+Perforce server info:
+	2022/12/13 13:39:37 pid 17976 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:39:37 pid 3460 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:39:37 pid 2308 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o depot'
+Perforce server info:
+	2022/12/13 13:39:37 pid 17976 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:44:49 pid 13684 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:44:49 pid 13684 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -i'
+Perforce server info:
+	2022/12/13 13:44:49 pid 13684 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:44:49 pid 26116 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients'
+Perforce server info:
+	2022/12/13 13:44:51 pid 26116 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:44:51 pid 26116 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:44:52 pid 26116 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -m -h 127.0.0.1'
+Perforce server info:
+	2022/12/13 13:44:52 pid 26116 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o'
+Perforce server info:
+	2022/12/13 13:44:52 pid 7484 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:44:52 pid 7484 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:44:52 pid 7484 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -m -h 127.0.0.1'
+Perforce server info:
+	2022/12/13 13:44:52 pid 7484 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o'
+Perforce server info:
+	2022/12/13 13:44:52 pid 7484 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o client'
+Perforce server info:
+	2022/12/13 13:44:52 pid 7484 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:44:52 pid 16376 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:44:52 pid 4144 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o job'
+2022/12/13 13:44:52 980000000 pid 3228: Server is now using 5 active threads.
+Perforce server info:
+	2022/12/13 13:44:52 pid 5224 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o depot'
+Perforce server info:
+	2022/12/13 13:44:53 pid 5224 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-groups -u ringnave'
+Perforce server info:
+	2022/12/13 13:44:53 pid 16376 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4'
+Perforce server info:
+	2022/12/13 13:44:53 pid 16376 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLAllowList'
+Perforce server info:
+	2022/12/13 13:44:53 pid 4144 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:44:53 pid 7484 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o change'
+Perforce server info:
+	2022/12/13 13:44:53 pid 7484 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:44:53 pid 4144 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLTabs'
+Perforce server info:
+	2022/12/13 13:44:53 pid 5224 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLActions'
+Perforce server info:
+	2022/12/13 13:44:53 pid 16376 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLWindows'
+2022/12/13 13:44:53 630000000 pid 3228: Server is now using 6 active threads.
+Perforce server info:
+	2022/12/13 13:44:53 pid 15516 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-login -s'
+Perforce server info:
+	2022/12/13 13:44:53 pid 18228 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-streams -a'
+Perforce server info:
+	2022/12/13 13:44:53 pid 10672 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-counter change'
+Perforce server info:
+	2022/12/13 13:44:53 pid 18228 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:44:53 pid 10672 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -u ringnave -m'
+Perforce server info:
+	2022/12/13 13:45:52 pid 10392 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:45:52 pid 15428 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:45:52 pid 15428 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:49:17 pid 15784 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:49:17 pid 15784 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:49:18 pid 17236 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:49:18 pid 17236 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:49:18 pid 17236 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -m -h 127.0.0.1'
+Perforce server info:
+	2022/12/13 13:49:18 pid 17236 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o'
+Perforce server info:
+	2022/12/13 13:49:18 pid 17236 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o client'
+Perforce server info:
+	2022/12/13 13:49:18 pid 17236 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:49:18 pid 17288 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:49:18 pid 10552 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o job'
+Perforce server info:
+	2022/12/13 13:49:18 pid 26372 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o depot'
+Perforce server info:
+	2022/12/13 13:49:18 pid 10552 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4'
+Perforce server info:
+	2022/12/13 13:49:18 pid 26372 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-groups -u ringnave'
+Perforce server info:
+	2022/12/13 13:49:18 pid 26372 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLAllowList'
+Perforce server info:
+	2022/12/13 13:49:18 pid 10552 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:49:18 pid 17288 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o change'
+Perforce server info:
+	2022/12/13 13:49:19 pid 17288 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:49:19 pid 10552 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLTabs'
+Perforce server info:
+	2022/12/13 13:49:19 pid 26372 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLWindows'
+Perforce server info:
+	2022/12/13 13:49:19 pid 17236 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLActions'
+2022/12/13 13:49:19 118000000 pid 3228: Server is now using 5 active threads.
+2022/12/13 13:49:19 121000000 pid 3228: Server is now using 6 active threads.
+Perforce server info:
+	2022/12/13 13:49:19 pid 4888 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-streams -a'
+Perforce server info:
+	2022/12/13 13:49:19 pid 24264 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-login -s'
+Perforce server info:
+	2022/12/13 13:49:19 pid 12828 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-counter change'
+Perforce server info:
+	2022/12/13 13:49:19 pid 12828 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:49:19 pid 4888 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -u ringnave -m'
+Perforce server info:
+	2022/12/13 13:49:25 pid 10424 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:49:25 pid 3328 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:49:25 pid 10424 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:49:43 pid 7480 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-logout'
+Perforce server info:
+	2022/12/13 13:49:48 pid 10480 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:49:48 pid 10480 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:49:48 pid 26424 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:49:48 pid 26424 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:49:48 pid 26424 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -m -h 127.0.0.1'
+Perforce server info:
+	2022/12/13 13:49:48 pid 26424 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o'
+Perforce server info:
+	2022/12/13 13:49:48 pid 26424 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o client'
+Perforce server info:
+	2022/12/13 13:49:48 pid 26424 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:49:48 pid 20180 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o job'
+Perforce server info:
+	2022/12/13 13:49:48 pid 11040 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:49:48 pid 3916 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o depot'
+Perforce server info:
+	2022/12/13 13:49:48 pid 11040 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4'
+Perforce server info:
+	2022/12/13 13:49:48 pid 3916 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-groups -u ringnave'
+Perforce server info:
+	2022/12/13 13:49:48 pid 3916 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLAllowList'
+Perforce server info:
+	2022/12/13 13:49:48 pid 11040 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:49:49 pid 20180 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o change'
+Perforce server info:
+	2022/12/13 13:49:49 pid 20180 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:49:49 pid 11040 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLTabs'
+Perforce server info:
+	2022/12/13 13:49:49 pid 26424 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLActions'
+Perforce server info:
+	2022/12/13 13:49:49 pid 3916 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLWindows'
+2022/12/13 13:49:49 356000000 pid 3228: Server is now using 5 active threads.
+2022/12/13 13:49:49 358000000 pid 3228: Server is now using 6 active threads.
+Perforce server info:
+	2022/12/13 13:49:49 pid 10244 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-login -s'
+Perforce server info:
+	2022/12/13 13:49:49 pid 23344 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-streams -a'
+Perforce server info:
+	2022/12/13 13:49:49 pid 16252 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-counter change'
+Perforce server info:
+	2022/12/13 13:49:49 pid 16252 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:49:49 pid 23344 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -u ringnave -m'
+Perforce server info:
+	2022/12/13 13:49:59 pid 26536 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:49:59 pid 1652 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:49:59 pid 26536 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:50:08 pid 16824 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4V.Features.PromptWorkspaceName'
+Perforce server info:
+	2022/12/13 13:50:08 pid 16824 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-streams -m 100'
+Perforce server info:
+	2022/12/13 13:50:08 pid 3684 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o ringnave_JJU-DESKTOP_7424'
+Perforce server info:
+	2022/12/13 13:50:08 pid 3684 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:50:08 pid 16824 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:50:08 pid 3684 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:51:55 pid 1600 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:51:55 pid 1600 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:51:55 pid 5464 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:51:55 pid 5464 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:51:55 pid 5464 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -m -h 127.0.0.1'
+Perforce server info:
+	2022/12/13 13:51:55 pid 5464 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o'
+Perforce server info:
+	2022/12/13 13:51:55 pid 5464 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o client'
+Perforce server info:
+	2022/12/13 13:51:55 pid 5464 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:51:55 pid 19408 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o job'
+Perforce server info:
+	2022/12/13 13:51:55 pid 2680 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:51:55 pid 26444 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o depot'
+Perforce server info:
+	2022/12/13 13:51:55 pid 2680 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4'
+Perforce server info:
+	2022/12/13 13:51:55 pid 26444 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-groups -u ringnave'
+Perforce server info:
+	2022/12/13 13:51:55 pid 26444 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLAllowList'
+Perforce server info:
+	2022/12/13 13:51:55 pid 2680 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:51:56 pid 19408 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o change'
+Perforce server info:
+	2022/12/13 13:51:56 pid 19408 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:51:56 pid 2680 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLTabs'
+Perforce server info:
+	2022/12/13 13:51:56 pid 26444 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLWindows'
+Perforce server info:
+	2022/12/13 13:51:56 pid 5464 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLActions'
+2022/12/13 13:51:56 395000000 pid 3228: Server is now using 5 active threads.
+2022/12/13 13:51:56 396000000 pid 3228: Server is now using 6 active threads.
+Perforce server info:
+	2022/12/13 13:51:56 pid 9620 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-streams -a'
+Perforce server info:
+	2022/12/13 13:51:56 pid 24048 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-login -s'
+Perforce server info:
+	2022/12/13 13:51:56 pid 17148 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-counter change'
+Perforce server info:
+	2022/12/13 13:51:56 pid 17148 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:51:56 pid 9620 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -u ringnave -m'
+Perforce server info:
+	2022/12/13 13:51:59 pid 9620 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:51:59 pid 17148 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:51:59 pid 9620 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:52:07 pid 13280 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4V.Features.PromptWorkspaceName'
+Perforce server info:
+	2022/12/13 13:52:07 pid 13280 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-streams -m 100'
+Perforce server info:
+	2022/12/13 13:52:07 pid 6460 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o ringnave_JJU-DESKTOP_7813'
+Perforce server info:
+	2022/12/13 13:52:07 pid 6460 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:52:07 pid 13280 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:52:07 pid 6460 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:52:32 pid 2388 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-dirs //depot/*'
+Perforce server info:
+	2022/12/13 13:52:54 pid 23276 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:53:27 pid 2912 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100 -u ringnave'
+Perforce server info:
+	2022/12/13 13:53:45 pid 16432 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 13:53:57 pid 18396 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -d UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:53:57 pid 18396 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 13:53:57 pid 18396 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 13:53:57 pid 18396 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:53:57 pid 18396 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:53:57 pid 18396 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -m -h 127.0.0.1'
+Perforce server info:
+	2022/12/13 13:53:57 pid 18396 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-counter change'
+Perforce server info:
+	2022/12/13 13:53:57 pid 18396 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave'
+Perforce server info:
+	2022/12/13 13:53:57 pid 7028 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:53:57 pid 6460 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 13:54:06 pid 5608 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4V.Features.PromptWorkspaceName'
+Perforce server info:
+	2022/12/13 13:54:06 pid 5608 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o ringnave_JJU-DESKTOP_8201'
+Perforce server info:
+	2022/12/13 13:54:06 pid 5608 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:54:06 pid 6796 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:54:06 pid 5608 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:54:24 pid 10244 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-dirs //depot/*'
+Perforce server info:
+	2022/12/13 13:54:44 pid 9580 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:54:44 pid 9580 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -i'
+Perforce server info:
+	2022/12/13 13:54:44 pid 9580 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:54:44 pid 18336 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 13:54:44 pid 18336 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 13:54:44 pid 18336 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 13:54:44 pid 18336 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 13:54:45 pid 18336 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -m -h 127.0.0.1'
+Perforce server info:
+	2022/12/13 13:54:45 pid 18336 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o'
+Perforce server info:
+	2022/12/13 13:54:45 pid 9580 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-counter change'
+Perforce server info:
+	2022/12/13 13:54:45 pid 18336 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:54:45 pid 9580 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -u ringnave -m'
+Perforce server info:
+	2022/12/13 13:54:45 pid 9580 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig'
+Perforce server info:
+	2022/12/13 13:55:07 pid 25428 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 13:55:07 pid 23344 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:55:07 pid 15320 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:55:07 pid 23344 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:55:07 pid 23344 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:55:07 pid 15320 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:55:07 pid 25428 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 13:55:07 pid 25428 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:55:07 pid 15320 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig'
+Perforce server info:
+	2022/12/13 13:55:07 pid 15320 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig'
+Perforce server info:
+	2022/12/13 13:58:52 pid 2268 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:58:52 pid 18844 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 13:58:52 pid 24700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:58:52 pid 2268 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:58:52 pid 5292 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 13:58:52 pid 5292 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig'
+Perforce server info:
+	2022/12/13 13:58:53 pid 5292 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:58:53 pid 18844 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 13:58:53 pid 18844 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 13:58:53 pid 24700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 13:58:53 pid 18844 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig'
+Perforce server info:
+	2022/12/13 14:03:53 pid 3044 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:03:53 pid 12860 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 14:03:53 pid 7828 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:03:53 pid 12972 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 14:03:53 pid 7828 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 14:03:53 pid 7828 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig'
+Perforce server info:
+	2022/12/13 14:05:59 pid 17544 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 14:05:59 pid 17544 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 14:05:59 pid 17664 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 14:05:59 pid 17664 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 14:05:59 pid 17664 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -m -h 127.0.0.1'
+Perforce server info:
+	2022/12/13 14:05:59 pid 17664 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o'
+Perforce server info:
+	2022/12/13 14:05:59 pid 17664 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o client'
+Perforce server info:
+	2022/12/13 14:06:00 pid 17664 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 14:06:00 pid 17956 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o job'
+Perforce server info:
+	2022/12/13 14:06:00 pid 1948 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:06:00 pid 7236 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o depot'
+Perforce server info:
+	2022/12/13 14:06:00 pid 7236 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-groups -u ringnave'
+Perforce server info:
+	2022/12/13 14:06:00 pid 1948 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4'
+Perforce server info:
+	2022/12/13 14:06:00 pid 7236 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLAllowList'
+Perforce server info:
+	2022/12/13 14:06:00 pid 1948 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:06:00 pid 17956 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o change'
+Perforce server info:
+	2022/12/13 14:06:00 pid 17956 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:06:00 pid 1948 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLTabs'
+Perforce server info:
+	2022/12/13 14:06:00 pid 17664 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLActions'
+Perforce server info:
+	2022/12/13 14:06:00 pid 7236 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLWindows'
+2022/12/13 14:06:00 955000000 pid 3228: Server is now using 5 active threads.
+2022/12/13 14:06:00 957000000 pid 3228: Server is now using 6 active threads.
+Perforce server info:
+	2022/12/13 14:06:00 pid 24792 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-streams -a'
+Perforce server info:
+	2022/12/13 14:06:00 pid 12356 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-login -s'
+Perforce server info:
+	2022/12/13 14:06:00 pid 4944 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-counter change'
+2022/12/13 14:06:01 012000000 pid 3228: Server is now using 7 active threads.
+Perforce server info:
+	2022/12/13 14:06:01 pid 17328 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject'
+Perforce server info:
+	2022/12/13 14:06:01 pid 4944 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 14:06:01 pid 17328 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -u ringnave -m'
+Perforce server info:
+	2022/12/13 14:06:01 pid 17328 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject'
+Perforce server info:
+	2022/12/13 14:06:25 pid 12828 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 14:06:25 pid 15984 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:06:25 pid 15984 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 14:06:25 pid 15984 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject'
+Perforce server info:
+	2022/12/13 14:08:44 pid 7312 ringnave@JJU-DESKTOP 127.0.0.1 [UE/v91] 'user-info'
+Perforce server info:
+	2022/12/13 14:08:44 pid 7312 ringnave@JJU-DESKTOP 127.0.0.1 [UE/v91] 'user-info'
+Perforce server info:
+	2022/12/13 14:08:44 pid 7312 ringnave@JJU-DESKTOP 127.0.0.1 [UE/v91] 'user-clients -u ringnave'
+Perforce server info:
+	2022/12/13 14:08:53 pid 11692 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:08:53 pid 18884 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+Perforce server info:
+	2022/12/13 14:08:53 pid 11692 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 14:08:53 pid 23300 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 14:08:53 pid 11052 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:08:53 pid 11052 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig'
+Perforce server info:
+	2022/12/13 14:09:04 pid 7696 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o client'
+Perforce server info:
+	2022/12/13 14:09:07 pid 22920 ringnave@JJU-DESKTOP 127.0.0.1 [UE/v91] 'user-info'
+Perforce server info:
+	2022/12/13 14:09:07 pid 22920 ringnave@UE_003_Advent 127.0.0.1 [UE/v91] 'user-info'
+Perforce server info:
+	2022/12/13 14:09:07 pid 22920 ringnave@UE_003_Advent 127.0.0.1 [UE/v91] 'user-clients -u ringnave'
+Perforce server info:
+	2022/12/13 14:09:21 pid 2224 ringnave@JJU-DESKTOP 127.0.0.1 [UE/v91] 'user-info'
+Perforce server info:
+	2022/12/13 14:09:22 pid 2224 ringnave@UE_003_Advent 127.0.0.1 [UE/v91] 'user-info'
+Perforce server info:
+	2022/12/13 14:09:22 pid 2224 ringnave@UE_003_Advent 127.0.0.1 [UE/v91] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:23:15 pid 18396 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 14:23:15 pid 18396 ringnave@_____CLIENT_UNSET_____ 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 14:23:15 pid 24700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+Perforce server info:
+	2022/12/13 14:23:15 pid 24700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-info'
+--- db.config
+---   pages in+out+cached 11152+0+2
+---   locks read/write 11150/0 rows get+pos+scan put+del 11150+0+0 0+0
+
+Perforce server info:
+	2022/12/13 14:23:15 pid 24700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -m -h 127.0.0.1'
+Perforce server info:
+	2022/12/13 14:23:15 pid 24700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o'
+Perforce server info:
+	2022/12/13 14:23:15 pid 24700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o client'
+Perforce server info:
+	2022/12/13 14:23:15 pid 24700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 14:23:15 pid 3696 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o job'
+Perforce server info:
+	2022/12/13 14:23:15 pid 11700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:23:15 pid 10448 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o depot'
+Perforce server info:
+	2022/12/13 14:23:16 pid 11700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4'
+Perforce server info:
+	2022/12/13 14:23:16 pid 10448 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-groups -u ringnave'
+Perforce server info:
+	2022/12/13 14:23:16 pid 10448 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLAllowList'
+Perforce server info:
+	2022/12/13 14:23:16 pid 11700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:23:16 pid 3696 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o change'
+Perforce server info:
+	2022/12/13 14:23:16 pid 3696 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:23:16 pid 11700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLTabs'
+Perforce server info:
+	2022/12/13 14:23:16 pid 24700 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLActions'
+Perforce server info:
+	2022/12/13 14:23:16 pid 10448 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-property -l -n P4VJS.HTMLWindows'
+Perforce server info:
+	2022/12/13 14:23:16 pid 3048 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-clients -m 100'
+2022/12/13 14:23:16 601000000 pid 3228: Server is now using 5 active threads.
+2022/12/13 14:23:16 603000000 pid 3228: Server is now using 7 active threads.
+Perforce server info:
+	2022/12/13 14:23:16 pid 22292 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-streams -a'
+Perforce server info:
+	2022/12/13 14:23:16 pid 21248 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-login -s'
+Perforce server info:
+	2022/12/13 14:23:16 pid 2008 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-counter change'
+Perforce server info:
+	2022/12/13 14:23:16 pid 3696 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig'
+Perforce server info:
+	2022/12/13 14:23:16 pid 2008 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 14:23:16 pid 3696 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-protects -u ringnave -m'
+Perforce server info:
+	2022/12/13 14:23:16 pid 3696 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig'
+Perforce server info:
+	2022/12/13 14:24:03 pid 23916 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depot -o streamsDepot'
+Perforce server info:
+	2022/12/13 14:24:03 pid 23916 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depot -i'
+Perforce server info:
+	2022/12/13 14:24:03 pid 23916 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o client'
+Perforce server info:
+	2022/12/13 14:24:03 pid 17704 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depots'
+Perforce server info:
+	2022/12/13 14:24:03 pid 10244 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-depot -o streamsDepot'
+Perforce server info:
+	2022/12/13 14:24:03 pid 5224 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-stream -ov //streamsDepot/mainline'
+Perforce server info:
+	2022/12/13 14:24:03 pid 10244 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-spec -o stream'
+Perforce server info:
+	2022/12/13 14:24:03 pid 10244 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-stream -i -t mainline'
+Perforce server info:
+	2022/12/13 14:24:03 pid 10244 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -i'
+Perforce server info:
+	2022/12/13 14:24:03 pid 17704 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-streams -m 100'
+Perforce server info:
+	2022/12/13 14:24:03 pid 5224 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-stream -o -v //streamsDepot/mainline'
+Perforce server info:
+	2022/12/13 14:24:03 pid 16908 remote@unknown background [p4d/2022.1/NTX64/2361553] 'processStreamView'
+Perforce server info:
+	2022/12/13 14:24:03 pid 23916 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o'
+Perforce server info:
+	2022/12/13 14:24:03 pid 10244 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+2022/12/13 14:24:03 763000000 pid 3228: Server is now using 5 active threads.
+Perforce server info:
+	2022/12/13 14:24:03 pid 10244 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-stream -o -v //streamsDepot/mainline'
+Perforce server info:
+	2022/12/13 14:24:03 pid 10244 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:24:03 pid 10444 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-changes -s pending -l -m 100 -u ringnave -c UE_003_Advent'
+Perforce server info:
+	2022/12/13 14:24:03 pid 10444 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-change -o'
+Perforce server info:
+	2022/12/13 14:24:03 pid 10444 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-fstat -Olhp j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.sln j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\UE_003_Advent.uproject j:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent\.vsconfig'
+Perforce server info:
+	2022/12/13 14:24:08 pid 10444 ringnave@UE_003_Advent 127.0.0.1 [Helix P4V/NTX64/2022.3/2370885/v93] 'user-client -o UE_003_Advent'

@@ -1,0 +1,77 @@
+START Tue Dec 13 13:30:47 2022
+  p4diag version NTX64/2218356
+Logging to the file 'J:\Perforce\Server\p4diag_log.txt'
+
+Windows Information:
+  Windows 10 (x64)
+  build 22621
+  Home Edition, Single User Remote Desktop
+
+P4Diag Information:
+  0x7ff636c90000  C:\Program Files\Perforce\Server\p4diag.exe  (0.0.221.8356)
+  0x7fff3eef0000  C:\Windows\SYSTEM32\ntdll.dll  (10.0.22621.755)
+  0x7fff3e020000  C:\Windows\System32\KERNEL32.DLL  (10.0.22621.755)
+  0x7fff3c450000  C:\Windows\System32\KERNELBASE.dll  (10.0.22621.755)
+  0x7fff3d580000  C:\Windows\System32\ADVAPI32.dll  (10.0.22621.608)
+  0x7fff3ed40000  C:\Windows\System32\msvcrt.dll  (7.0.22621.608)
+  0x7fff3e5b0000  C:\Windows\System32\sechost.dll  (10.0.22621.608)
+  0x7fff3d770000  C:\Windows\System32\RPCRT4.dll  (10.0.22621.1)
+  0x7fff3e400000  C:\Windows\System32\USER32.dll  (10.0.22621.608)
+  0x7fff3cc40000  C:\Windows\System32\win32u.dll  (10.0.22621.819)
+  0x7fff3d550000  C:\Windows\System32\GDI32.dll  (10.0.22621.608)
+  0x7fff3c890000  C:\Windows\System32\gdi32full.dll  (10.0.22621.674)
+  0x7fff3c7f0000  C:\Windows\System32\msvcp_win.dll  (10.0.22621.608)
+  0x7fff3c9b0000  C:\Windows\System32\ucrtbase.dll  (10.0.22621.608)
+  0x7fff3d630000  C:\Windows\System32\PSAPI.DLL  (10.0.22621.1)
+  0x7fff36b00000  C:\Windows\SYSTEM32\VERSION.dll  (10.0.22621.1)
+  0x7fff30340000  C:\Windows\SYSTEM32\dbghelp.dll  (10.0.22621.1)
+  0x7fff3dbf0000  C:\Windows\System32\combase.dll  (10.0.22621.755)
+  0x7fff3e180000  C:\Windows\System32\OLEAUT32.dll  (10.0.22621.608)
+  0x7fff259a0000  C:\Windows\SYSTEM32\dbgcore.DLL  (10.0.22621.1)
+
+Begin debugging process 25044
+  module 'C:\Program Files\Perforce\Server\p4s.exe'
+  version 'NTX64/2022.1/2361553'
+  minidump file format 'C:\Program Files\Perforce\Server\p4s_YYYYMMDDHHMMSS.dmp'
+
+Debugging is active.
+
+Process:
+  process id 25044
+    process handle 412
+    process base address 0x00007ff6988c0000
+  thread id 18072
+    thread handle 420
+    thread base address 0x000000c736202000
+    thread start address 0x0000000000000000
+  loading image 'C:\Program Files\Perforce\Server\p4s.exe'
+  sympath '.'
+
+Loading: 0x7fff3eef0000  C:\Windows\System32\ntdll.dll  (10.0.22621.755)
+Loading: 0x7fff3e020000  C:\Windows\System32\kernel32.dll  (10.0.22621.755)
+Loading: 0x7fff3c450000  C:\Windows\System32\KernelBase.dll  (10.0.22621.755)
+Loading: 0x7fff39790000  C:\Windows\System32\apphelp.dll  (10.0.22621.608)
+Loading: 0x7fff3d890000  C:\Windows\System32\Wldap32.dll  (10.0.22621.608)
+Loading: 0x7fff3c9b0000  C:\Windows\System32\ucrtbase.dll  (10.0.22621.608)
+Loading: 0x7fff3cad0000  C:\Windows\System32\crypt32.dll  (10.0.22621.674)
+Loading: 0x7fff3d580000  C:\Windows\System32\advapi32.dll  (10.0.22621.608)
+Loading: 0x7fff3ed40000  C:\Windows\System32\msvcrt.dll  (7.0.22621.608)
+Loading: 0x7fff3e5b0000  C:\Windows\System32\sechost.dll  (10.0.22621.608)
+Loading: 0x7fff3d770000  C:\Windows\System32\rpcrt4.dll  (10.0.22621.1)
+Loading: 0x7fff3d4d0000  C:\Windows\System32\ws2_32.dll  (10.0.22621.1)
+Loading: 0x7fff3ccf0000  C:\Windows\System32\shell32.dll  (10.0.22621.755)
+Loading: 0x7fff3c7f0000  C:\Windows\System32\msvcp_win.dll  (10.0.22621.608)
+Loading: 0x7fff3e400000  C:\Windows\System32\user32.dll  (10.0.22621.608)
+Loading: 0x7fff3cc40000  C:\Windows\System32\win32u.dll  (10.0.22621.819)
+Loading: 0x7fff3d550000  C:\Windows\System32\gdi32.dll  (10.0.22621.608)
+Loading: 0x7fff3c890000  C:\Windows\System32\gdi32full.dll  (10.0.22621.674)
+Loading: 0x7fff3e260000  C:\Windows\System32\ole32.dll  (10.0.22621.608)
+Loading: 0x7fff3dbf0000  C:\Windows\System32\combase.dll  (10.0.22621.755)
+Loading: 0x7fff3bcc0000  C:\Windows\System32\bcrypt.dll  (10.0.22621.1)
+Loading: 0x7fff3cc70000  C:\Windows\System32\bcryptprimitives.dll  (10.0.22621.1)
+Loading: 0x7fff3af00000  C:\Windows\System32\IPHLPAPI.DLL  (10.0.22621.1)
+Loading: 0x7fff3bb40000  C:\Windows\System32\cryptbase.dll  (10.0.22621.1)
+Loading: 0x7fff3b8e0000  C:\Windows\System32\mswsock.dll  (10.0.22621.1)
+Loading: 0x7fff3b480000  C:\Windows\System32\kernel.appcore.dll  (10.0.22621.1)
+Loading: 0x7fff3af70000  C:\Windows\System32\dnsapi.dll  (10.0.22621.1)
+Loading: 0x7fff3e0f0000  C:\Windows\System32\nsi.dll  (10.0.22621.1)

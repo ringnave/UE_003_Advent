@@ -1,0 +1,490 @@
+@pv@ 0 @db.upgrades@ 0 @SplitInteg@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 0 @SplitInteg@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@pv@ 1 @db.counters@ @upgrade@ @1@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 1 @SplitHave@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 1 @SplitHave@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @2@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 2 @SplitChange@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 2 @SplitChange@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @3@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 3 @TempObjRevUpdate@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 3 @TempObjRevUpdate@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @4@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 4 @TempObjWorkingUpdate@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 4 @TempObjWorkingUpdate@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @5@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 5 @IntializeDepotDepot@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@pv@ 1 @db.depot@ @depot@ 0 @@ @depot/...@ 
+@pv@ 7 @db.domain@ @depot@ 100 @@ @@ @@ @@ @@ 1670905846 1670905846 0 @Default depot@ @@ @@ 0 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 5 @IntializeDepotDepot@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @6@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 6 @ManglePasswords@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 6 @ManglePasswords@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @7@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 7 @BuildHeadRev@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 7 @BuildHeadRev@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @8@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 8 @BuildLocks@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 8 @BuildLocks@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @9@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @10@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 10 @BuildDelRev@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 10 @BuildDelRev@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @11@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @12@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 12 @MoveSpecDepot@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 12 @MoveSpecDepot@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @13@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @14@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @15@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 15 @BuildHaveMaps@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 15 @BuildHaveMaps@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @16@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @17@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 17 @RemoveArchiveTable@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 17 @RemoveArchiveTable@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @18@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 18 @BuildCommonPath@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 18 @BuildCommonPath@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @19@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 19 @MoveBodyDate@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 19 @MoveBodyDate@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @20@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 20 @RemoveBodyDate@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 20 @RemoveBodyDate@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @21@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 21 @AddConfig@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 21 @AddConfig@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @22@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 22 @FixTiny@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 22 @FixTiny@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @23@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 23 @MoveLdapSpecs@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 23 @MoveLdapSpecs@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @24@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 24 @SplitTemplate@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 24 @SplitTemplate@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @25@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 25 @InitializeGraphDepot@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@pv@ 1 @db.depot@ @repo@ 7 @@ @repo/...@ 
+@pv@ 7 @db.domain@ @repo@ 100 @@ @@ @@ @@ @@ 1670905846 1670905846 0 @Default graph depot@ @@ @@ 0 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 25 @InitializeGraphDepot@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @26@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 26 @PerformUpgrade171@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 26 @PerformUpgrade171@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @27@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 27 @PerformUpgrade172@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 27 @PerformUpgrade172@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @28@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 28 @RemoveDbGraphIndex181@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 28 @RemoveDbGraphIndex181@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @29@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 29 @IntializeExtsDepot182@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@pv@ 1 @db.depot@ @.p4-extensions@ 8 @@ @.p4-extensions/...@ 
+@pv@ 7 @db.domain@ @.p4-extensions@ 100 @@ @@ @@ @@ @@ 1670905846 1670905846 0 @Helix Core Extensions depot.@ @@ @@ 0 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 29 @IntializeExtsDepot182@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @30@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 30 @NormalizeTriggerFields182@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 30 @NormalizeTriggerFields182@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @31@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 31 @BuildStorage191@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@nx@ 28 1670905846 @54@ 0 0 0 0 0 @@ @@ @@ @@ @@ 
+@pv@ 1 @db.counters@ @maxCommitChange@ @0@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 31 @BuildStorage191@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @32@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 32 @AddDbTriggerExtNs@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 32 @AddDbTriggerExtNs@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @33@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 33 @MoveUpdateCachedRepos192@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 33 @MoveUpdateCachedRepos192@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @34@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 34 @CorrectConfigurableServerNames@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 34 @CorrectConfigurableServerNames@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @35@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 35 @PerformUpgrade201@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 35 @PerformUpgrade201@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @36@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 36 @InstallationRunning2020.2@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 36 @InstallationRunning2020.2@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @37@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 37 @BuildShelfStorageIndex@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 37 @BuildShelfStorageIndex@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @38@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 38 @CleanServerLocks@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 38 @CleanServerLocks@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @39@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 39 @InstallationRunning2021.1@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 39 @InstallationRunning2021.1@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @40@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 40 @InstallationRunning2021.2@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 40 @InstallationRunning2021.2@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @41@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 41 @ComputeGraphObjectRefcount212@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@pv@ 1 @db.counters@ @graphDepotRefcountState@ @1@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @graphDepotRefcountState@ @2@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @graphDepotRefcountState@ @0@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 41 @ComputeGraphObjectRefcount212@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @42@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 42 @PopulateStreamRelationTable@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 42 @PopulateStreamRelationTable@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @43@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 43 @RunStreamQWorker@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 43 @RunStreamQWorker@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @44@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 44 @InstallationRunning2022.1@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 44 @InstallationRunning2022.1@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @45@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 45 @MoveGraphObjectRefcount221@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @graphDepotRefcountState@ @1@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @graphDepotRefcountState@ @2@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @graphDepotRefcountState@ @0@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 45 @MoveGraphObjectRefcount221@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @46@ 
+@ex@ 3228 1670905846
+@pv@ 0 @db.upgrades@ 46 @PopulateStreamViewsWithAtChanges@ 2 1670905846 0 @@ 
+@ex@ 3228 1670905846
+@rv@ 0 @db.upgrades@ 46 @PopulateStreamViewsWithAtChanges@ 3 1670905846 1670905846 @@ 
+@ex@ 3228 1670905846
+@rv@ 1 @db.counters@ @upgrade@ @47@ 
+@ex@ 3228 1670905846
+@nx@ 7 1670905847 @54@ 0 0 0 0 0 @1666@ @J:\Perforce\Server\@ @Perforce@ @@ @@ 
+@ex@ 3228 1670905847
+@pv@ 0 @db.upgrades@ 9 @DeprecatedUpgradeStep@ 3 0 0 @@ 
+@pv@ 0 @db.upgrades@ 11 @DeprecatedUpgradeStep@ 3 0 0 @@ 
+@pv@ 0 @db.upgrades@ 13 @DeprecatedUpgradeStep@ 3 0 0 @@ 
+@pv@ 0 @db.upgrades@ 14 @DeprecatedUpgradeStep@ 3 0 0 @@ 
+@pv@ 0 @db.upgrades@ 16 @DeprecatedUpgradeStep@ 3 0 0 @@ 
+@ex@ 3228 1670905847
+@pv@ 7 @db.user@ @ringnave@ @ringnave@@_____CLIENT_UNSET_____@ @@ 1670906371 1670906371 @ringnave@ @@ 0 @@ 0 0 0 0 0 0 
+@ex@ 3116 1670906371
+@rv@ 7 @db.user@ @ringnave@ @ringnave@@_____CLIENT_UNSET_____@ @@ 1670906371 1670906371 @ringnave@ @A0C095E7947C1A4C698C1DE6C17A18D1@ 1 @@ 0 0 1670906371 0 0 0 
+@ex@ 17976 1670906371
+@pv@ 0 @db.ticket@ @ringnave@ @127.0.0.1@ @3D455408B098E7A2505FE6C179ADEF1D@ 0 @@ 1670906371 
+@ex@ 17976 1670906371
+@rv@ 7 @db.user@ @ringnave@ @ringnave@@_____CLIENT_UNSET_____@ @@ 1670906371 1670906371 @ringnave@ @A0C095E7947C1A4C698C1DE6C17A18D1@ 1 @8BE5DB1F656D9EA66A477E552E5EC84F@ 1670949571 0 1670906371 0 0 0 
+@ex@ 17976 1670906371
+@rv@ 7 @db.user@ @ringnave@ @ringnav@@gmail.com@ @@ 1670906371 1670906371 @JIUNG JANG@ @A0C095E7947C1A4C698C1DE6C17A18D1@ 1 @8BE5DB1F656D9EA66A477E552E5EC84F@ 1670949571 0 1670906371 0 0 0 
+@ex@ 17976 1670906371
+@rv@ 7 @db.user@ @ringnave@ @ringnav@@gmail.com@ @@ 1670906371 1670906689 @JIUNG JANG@ @A0C095E7947C1A4C698C1DE6C17A18D1@ 1 @8BE5DB1F656D9EA66A477E552E5EC84F@ 1670949571 0 1670906371 0 0 0 
+@ex@ 13684 1670906689
+@pv@ 1 @db.view@ @UE_003_Advent@ 0 0 @//UE_003_Advent/...@ @//depot/...@ 
+@ex@ 13684 1670906689
+@pv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\Perforce\Project\UE_003_Advent@ @@ @@ @ringnave@ 1670906689 1670906689 0 @Created by ringnave.
+@ @@ @@ 1 
+@ex@ 13684 1670906689
+@rv@ 0 @db.ticket@ @ringnave@ @127.0.0.1@ @@ 0 @@ 1670906983 
+@ex@ 7480 1670906983
+@rv@ 7 @db.user@ @ringnave@ @ringnav@@gmail.com@ @@ 1670906371 1670906989 @JIUNG JANG@ @A0C095E7947C1A4C698C1DE6C17A18D1@ 1 @8BE5DB1F656D9EA66A477E552E5EC84F@ 1670949571 0 1670906371 0 0 0 
+@ex@ 20180 1670906989
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\Perforce\Project\UE_003_Advent@ @@ @@ @ringnave@ 1670906689 1670906989 0 @Created by ringnave.
+@ @@ @@ 1 
+@ex@ 16252 1670906989
+@dv@ 1 @db.view@ @UE_003_Advent@ 0 0 @//UE_003_Advent/...@ @//depot/...@ 
+@dv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\Perforce\Project\UE_003_Advent@ @@ @@ @ringnave@ 1670906689 1670906989 0 @Created by ringnave.
+@ @@ @@ 1 
+@ex@ 18396 1670907237
+@pv@ 1 @db.view@ @UE_003_Advent@ 0 0 @//UE_003_Advent/...@ @//depot/...@ 
+@ex@ 9580 1670907284
+@pv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670907284 1670907284 0 @Created by ringnave.
+@ @@ @@ 1 
+@ex@ 9580 1670907284
+@rv@ 7 @db.user@ @ringnave@ @ringnav@@gmail.com@ @@ 1670906371 1670907307 @JIUNG JANG@ @A0C095E7947C1A4C698C1DE6C17A18D1@ 1 @8BE5DB1F656D9EA66A477E552E5EC84F@ 1670949571 0 1670906371 0 0 0 
+@ex@ 25428 1670907307
+@rv@ 7 @db.user@ @ringnave@ @ringnav@@gmail.com@ @@ 1670906371 1670907833 @JIUNG JANG@ @A0C095E7947C1A4C698C1DE6C17A18D1@ 1 @8BE5DB1F656D9EA66A477E552E5EC84F@ 1670949571 0 1670906371 0 0 0 
+@ex@ 3044 1670907833
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670907284 1670907833 0 @Created by ringnave.
+@ @@ @@ 1 
+@ex@ 7828 1670907833
+@rv@ 7 @db.user@ @ringnave@ @ringnav@@gmail.com@ @@ 1670906371 1670908133 @JIUNG JANG@ @A0C095E7947C1A4C698C1DE6C17A18D1@ 1 @8BE5DB1F656D9EA66A477E552E5EC84F@ 1670949571 0 1670906371 0 0 0 
+@ex@ 11692 1670908133
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670907284 1670908133 0 @Created by ringnave.
+@ @@ @@ 1 
+@ex@ 11692 1670908133
+@rv@ 7 @db.user@ @ringnave@ @ringnav@@gmail.com@ @@ 1670906371 1670908995 @JIUNG JANG@ @A0C095E7947C1A4C698C1DE6C17A18D1@ 1 @8BE5DB1F656D9EA66A477E552E5EC84F@ 1670949571 0 1670906371 0 0 0 
+@ex@ 24700 1670908995
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670907284 1670908996 0 @Created by ringnave.
+@ @@ @@ 1 
+@ex@ 2008 1670908996
+@pv@ 1 @db.depot@ @streamsDepot@ 3 @1@ @streamsDepot/...@ 
+@ex@ 23916 1670909043
+@pv@ 7 @db.domain@ @streamsDepot@ 100 @@ @@ @@ @@ @ringnave@ 1670909043 1670909043 0 @Created by ringnave.
+@ @@ @@ 0 
+@ex@ 23916 1670909043
+@pv@ 1 @db.bodtext@ @stream@ 0 0 @Stream;code:701;rq;ro;len:64;;Update;code:705;type:date;opt:always;fmt:L;ro;len:20;;Access;code:706;type:date;opt:always;fmt:L;ro;len:20;;Owner;code:704;open:isolate;len:32;;Name;code:703;type:line;opt:required;open:isolate;rq;len:32;;Parent;code:702;opt:required;open:isolate;rq;len:64;;Type;code:708;opt:required;open:isolate;rq;len:32;;Description;code:709;type:text;open:isolate;len:128;;Options;code:707;type:line;open:isolate;len:64;val:allsubmit/ownersubmit,unlocked/locked,toparent/notoparent,fromparent/nofromparent,mergedown/mergeany;;ParentView;code:715;opt:required;open:isolate;rq;pre:inherit;val:noinherit/inherit;fixed:ParentView;;Components;code:716;type:wlist;fmt:C;open:propagate;words:3;maxwords:4;len:64;fixed:Components;;Paths;code:710;type:wlist;opt:required;fmt:C;open:propagate;words:2;maxwords:3;rq;len:64;;Remapped;code:711;type:wlist;fmt:C;open:propagate;words:2;len:64;;Ignored;code:712;type:wlist;fmt:C;open:propagate;len:64;;View;code:713;type:wlist;words:2;len:64;;ChangeView;code:714;type:llist;opt:always;ro;len:64;;@ 
+@pv@ 1 @db.bodtext@ @stream@ 1 0 @# A Perforce Stream Specification.
+#
+#  Stream:       The stream field is unique and specifies the depot path.
+#  Update:       The date the specification was last changed.
+#  Access:       The date the specification was originally created.
+#  Owner:        The user who created this stream.
+#  Name:         A short title which may be updated.
+#  Parent:       The parent of this stream, or 'none' if Type is mainline.
+#  Type:         Type of stream provides clues for commands run
+#                between stream and parent.  Five types include 'mainline',
+#                'release', 'development' (default), 'virtual' and 'task'.
+#  Description:  A short description of the stream (optional).
+#  Options:      Stream Options:
+#                       allsubmit/ownersubmit [un]locked
+#                       [no]toparent [no]fromparent mergedown/mergeany
+#  ParentView:   Whether the stream spec inherits a view from its parent:
+#                inherit/noinherit.
+#  Components:   Incorporate component stream paths into this stream and
+#                define the view mappings for the clients of this stream.
+#  Paths:        Identify paths in the stream and how they are to be
+#                generated in resulting clients of this stream.
+#                Path types are share/isolate/import/import+/exclude.
+#  Remapped:     Remap a stream path in the resulting client view.
+#  Ignored:      Ignore a stream path in the resulting client view.
+#
+# Use 'p4 help stream' to see more about stream specifications and command.
+@ 
+@pv@ 1 @db.bodtext@ @stream@ 2 0 @Stream:701;Update:705;Access:706;Owner:704;Name:703;Parent:702;Type:708;Description:709;Options:707;ParentView:715;Components:716;Paths:710;Remapped:711;Ignored:712;View:713;ChangeView:714;;@ 
+@pv@ 1 @db.bodtext@ @stream@ 4 0 @0@ 
+@ex@ 5224 1670909043
+@pv@ 1 @db.counters@ @change@ @1@ 
+@ex@ 10244 1670909043
+@pv@ 0 @db.desc@ 1 @Stream //streamsDepot/mainline saved.@ 
+@pv@ 6 @db.change@ 1 1 @UE_003_Advent@ @ringnave@ 1670909043 1 @Stream //streamsDepot/mainline @ @//streamsDepot/mainline/*@ @@ @@ 0 0 @//streamsDepot/mainline@ 
+@ex@ 10244 1670909043
+@pv@ 2 @db.template@ @//streamsDepot/mainline@ 1 0 @none@ 0 0 @...@ @@ @@ 
+@ex@ 10244 1670909043
+@pv@ 0 @db.bodtexthx@ 115 @//streamsDepot/mainline@ 701 0 @//streamsDepot/mainline@ 
+@pv@ 0 @db.bodtextcx@ 115 @//streamsDepot/mainline@ 1 701 @//streamsDepot/mainline@ 
+@pv@ 0 @db.bodtexthx@ 115 @//streamsDepot/mainline@ 704 0 @ringnave@ 
+@pv@ 0 @db.bodtextcx@ 115 @//streamsDepot/mainline@ 1 704 @ringnave@ 
+@pv@ 0 @db.bodtexthx@ 115 @//streamsDepot/mainline@ 703 0 @mainline@ 
+@pv@ 0 @db.bodtextcx@ 115 @//streamsDepot/mainline@ 1 703 @mainline@ 
+@pv@ 0 @db.bodtexthx@ 115 @//streamsDepot/mainline@ 702 0 @none@ 
+@pv@ 0 @db.bodtextcx@ 115 @//streamsDepot/mainline@ 1 702 @none@ 
+@pv@ 0 @db.bodtexthx@ 115 @//streamsDepot/mainline@ 708 0 @mainline@ 
+@pv@ 0 @db.bodtextcx@ 115 @//streamsDepot/mainline@ 1 708 @mainline@ 
+@pv@ 0 @db.bodtexthx@ 115 @//streamsDepot/mainline@ 709 0 @Created by ringnave.
+@ 
+@pv@ 0 @db.bodtextcx@ 115 @//streamsDepot/mainline@ 1 709 @Created by ringnave.
+@ 
+@pv@ 0 @db.bodtexthx@ 115 @//streamsDepot/mainline@ 707 0 @allsubmit unlocked toparent fromparent mergedown@ 
+@pv@ 0 @db.bodtextcx@ 115 @//streamsDepot/mainline@ 1 707 @allsubmit unlocked toparent fromparent mergedown@ 
+@pv@ 0 @db.bodtexthx@ 115 @//streamsDepot/mainline@ 715 0 @inherit@ 
+@pv@ 0 @db.bodtextcx@ 115 @//streamsDepot/mainline@ 1 715 @inherit@ 
+@pv@ 0 @db.bodtexthx@ 115 @//streamsDepot/mainline@ 710 0 @share ...@ 
+@pv@ 0 @db.bodtextcx@ 115 @//streamsDepot/mainline@ 1 710 @share ...@ 
+@pv@ 0 @db.ixtexthx@ 115 @//streamsdepot/mainline@ 701 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @mainline@ 701 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @streamsdepot@ 701 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @ringnave@ 704 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @mainline@ 703 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @none@ 702 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @mainline@ 708 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @by@ 709 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @created@ 709 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @ringnave@ 709 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @ringnave.@ 709 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @allsubmit@ 707 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @fromparent@ 707 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @mergedown@ 707 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @toparent@ 707 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @unlocked@ 707 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @inherit@ 715 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @...@ 710 @//streamsDepot/mainline@ 
+@pv@ 0 @db.ixtexthx@ 115 @share@ 710 @//streamsDepot/mainline@ 
+@ex@ 10244 1670909043
+@pv@ 2 @db.stream@ @//streamsDepot/mainline@ @none@ @mainline@ 0 1670909043 1 0 0 0 0 0 1 
+@ex@ 10244 1670909043
+@pv@ 7 @db.domain@ @//streamsDepot/mainline@ 115 @@ @@ @@ @@ @ringnave@ 1670909043 1670909043 12 @Created by ringnave.
+@ @@ @@ 0 
+@ex@ 10244 1670909043
+@pv@ 0 @db.streamrelation@ @none@ @//streamsDepot/mainline@ 0 1 
+@ex@ 10244 1670909043
+@pv@ 0 @db.streamq@ @//streamsDepot/mainline@ 
+@ex@ 10244 1670909043
+@rv@ 1 @db.view@ @UE_003_Advent@ 0 0 @//UE_003_Advent/...@ @//streamsDepot/mainline/...@ 
+@ex@ 10244 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @@ @@ 1 
+@ex@ 10244 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 10244 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 5224 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 5224 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 23916 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 10244 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 17704 1670909043
+@pv@ 1 @db.streamviewx@ @//streamsDepot/mainline/...@ @...@ 0 @//streamsDepot/mainline@ @@ @//streamsDepot/mainline@ 0 @@ 
+@ex@ 16908 1670909043
+@pv@ 1 @db.streamviewx@ @//streamsDepot/mainline/...@ @...@ 0 @1//streamsDepot/mainline@ @@ @//streamsDepot/mainline@ 0 @@ 
+@ex@ 16908 1670909043
+@pv@ 1 @db.streamview@ @//streamsDepot/mainline@ 0 0 @...@ @//streamsDepot/mainline/...@ 
+@ex@ 16908 1670909043
+@pv@ 1 @db.streamview@ @1//streamsDepot/mainline@ 0 0 @...@ @//streamsDepot/mainline/...@ 
+@ex@ 16908 1670909043
+@dv@ 0 @db.streamq@ @//streamsDepot/mainline@ 
+@ex@ 16908 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 10244 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 10244 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 10244 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 10444 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 10444 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909043 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 10444 1670909043
+@rv@ 7 @db.domain@ @UE_003_Advent@ 99 @JJU-DESKTOP@ @J:\OneDrive\JiungJang\110_Unreal_Engine\UE_003_Advent@ @@ @@ @ringnave@ 1670909048 1670908996 0 @Created by ringnave.
+@ @//streamsDepot/mainline@ @@ 1 
+@ex@ 10444 1670909048
